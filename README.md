@@ -7,7 +7,7 @@
 
 
 ### 개발 인원 및 기간
-- 개발기간 : 2022/9/19 ~ 2020/9/30 
+- 개발기간 : 2022/9/19 ~ 2022/9/30 
 - 개발 인원 : 프론트엔드 4명, 백엔드 3명
 - [프론트엔드 github 링크](https://github.com/wecode-bootcamp-korea/37-1st-Just-Do-It-frontend)
 - [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/37-1st-Just-Do-It-backend)
